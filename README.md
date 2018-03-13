@@ -1,10 +1,7 @@
 # git-rocket
 Lista de comandos git más usados
 
-## Instalar docker (debian jessie)
-Mas info en: https://docs.docker.com/engine/installation/linux/debian/
-
-1. Comandos básicos
+## Comandos básicos
 
 Ver estado del repositorio local
 ```
@@ -16,7 +13,7 @@ Ver log de commits del repositorio local
 git log
 ```
 
-Hacer commit de cambios
+Revisar cambios uno a uno. Dejar en stage los cambios.
 ```
 git add -p
 ```
@@ -26,3 +23,4 @@ git add -p
 Hacer un commit
 ```
 git commit -m '<mensage>'
+```
