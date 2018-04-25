@@ -24,3 +24,14 @@ Hacer un commit
 ```
 git commit -m '<mensage>'
 ```
+
+Para hacer un push
+```
+git fetch origin ramaBase
+```
+```
+git rebase origin/ramaBase
+```
+```
+git push origin miRama
+```
