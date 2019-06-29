@@ -1,4 +1,4 @@
-# git-rocket
+# git-tips
 Lista de comandos git más usados
 
 ## Comandos básicos
